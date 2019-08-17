@@ -4,7 +4,7 @@
 import java.util.*;
 import java.lang.*;
 
-class Rextester
+class HshapePattern
 {  
     public static void main(String args[])
     {
